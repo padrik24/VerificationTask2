@@ -1,7 +1,6 @@
 package com.nn.podrazhanets.verificationtask2;
 
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
